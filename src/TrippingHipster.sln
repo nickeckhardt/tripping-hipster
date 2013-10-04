@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippingHipster", "TrippingHipster\TrippingHipster.csproj", "{9C88451A-DB54-4D12-B0DF-187882F9548B}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TrippingHipster.Mvc", "TrippingHipster.Mvc\TrippingHipster.Mvc.csproj", "{9C88451A-DB54-4D12-B0DF-187882F9548B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
