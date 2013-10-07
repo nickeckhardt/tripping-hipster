@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.Web.Infrastructure.dll">
+      <publishTime>10/04/2013 11:06:13</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Mvc.FixedDisplayModes.dll">
+      <publishTime>10/04/2013 11:06:15</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/04/2013 11:06:10</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>10/04/2013 11:06:16</publishTime>
+    </File>
+    <File Include="bin/System.Web.Helpers.dll">
+      <publishTime>10/04/2013 11:06:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>10/04/2013 11:06:17</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>10/04/2013 11:06:18</publishTime>
+    </File>
+    <File Include="bin/System.Web.Mvc.dll">
+      <publishTime>10/04/2013 11:06:15</publishTime>
+    </File>
+    <File Include="bin/System.Web.Razor.dll">
+      <publishTime>10/04/2013 11:06:13</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Deployment.dll">
+      <publishTime>10/04/2013 11:06:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.dll">
+      <publishTime>10/04/2013 11:06:14</publishTime>
+    </File>
+    <File Include="bin/System.Web.WebPages.Razor.dll">
+      <publishTime>10/04/2013 11:06:14</publishTime>
+    </File>
+    <File Include="bin/TrippingHipster.dll">
+      <publishTime>10/07/2013 09:06:45</publishTime>
+    </File>
+    <File Include="bin/TrippingHipster.pdb">
+      <publishTime>10/07/2013 09:06:45</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>10/04/2013 11:05:53</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>10/04/2013 11:06:18</publishTime>
+    </File>
+    <File Include="Views/Home/Index.cshtml">
+      <publishTime>10/04/2013 14:19:15</publishTime>
+    </File>
+    <File Include="Views/Web.config">
+      <publishTime>10/04/2013 11:05:53</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>10/07/2013 09:06:46</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
