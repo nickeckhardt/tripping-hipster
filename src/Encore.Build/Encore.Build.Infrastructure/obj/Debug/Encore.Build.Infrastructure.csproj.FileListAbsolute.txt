@@ -1,6 +1,0 @@
-C:\Code\Encore\Encore.Build\Encore.Build.Infrastructure\bin\Debug\Encore.Build.Infrastructure.dll
-C:\Code\Encore\Encore.Build\Encore.Build.Infrastructure\bin\Debug\Encore.Build.Infrastructure.pdb
-C:\Code\Encore\Encore.Build\Encore.Build.Infrastructure\bin\Debug\Microsoft.Web.Administration.dll
-C:\Code\Encore\Encore.Build\Encore.Build.Infrastructure\obj\Debug\ResolveAssemblyReference.cache
-C:\Code\Encore\Encore.Build\Encore.Build.Infrastructure\obj\Debug\Encore.Build.Infrastructure.dll
-C:\Code\Encore\Encore.Build\Encore.Build.Infrastructure\obj\Debug\Encore.Build.Infrastructure.pdb
